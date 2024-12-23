@@ -1,0 +1,4 @@
+# Autocreate directories for a pentest of a specific project
+function mkt(){
+    mkdir {nmap,content,exploits,scripts}
+}
